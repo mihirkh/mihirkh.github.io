@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mihir Khadilkar</title>
+    <description>Personal website of Mihir Khadilkar, a postdoctoral researcher at Materials Research Laboratory at U. C. Santa Barbara.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 25 Oct 2016 21:07:13 -0700</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2016 21:07:13 -0700</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Physics simulations</title>
+        <description>&lt;p&gt;This is a sample post about this nice little &lt;a href=&quot;http://stp.clarku.edu/simulations/&quot;&gt;website&lt;/a&gt;, that lets you fiddle with basic physics codes.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&#39;hi&#39;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;That is the end of the blog post.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 16 Aug 2015 09:14:27 -0700</pubDate>
+        <link>http://yourdomain.com/blog/2015/08/simulations</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/2015/08/simulations</guid>
+        
+        <category>simulations</category>
+        
+        <category>mc</category>
+        
+        
+        <category>physics</category>
+        
+        <category>simulations</category>
+        
+      </item>
+    
+  </channel>
+</rss>
