@@ -11,12 +11,12 @@ permalink: /research/
 I am principally interested in _Soft Condensed Matter Physics_, focusing on self-assembly of soft materials like colloids, nanoparticles and block-copolymers. My research focuses on structure-property relationships in these soft matter systems using theory and computer simulations. Statistical mechanics is the main tool often used to understand the relation between microscopic interactions and macroscopic properties. Broad aim of this work is twofold:
 
 1. Understand the fundamental physics underlying various self-assembly phenomena
-2. Leverage the use of theory and simulation studies to understand and solve problems related to materials applications.
+2. Leverage the use of theory and simulation studies to understand and solve problems related to materials applications
 
 <h1>Bulk morphologies in block copolymers</h1>
 <img src="/images/bcp-sa.png"   align="left" width="300">
 
-Block copolymers (BCPs) are polymers with two or more polymerized monomer blocks that are covalently bonded together. BCPs are intriguing soft materials because they undergo _micro-phase separation_ , due to a competition between enthalpic repulsion between unlike monomers and an entropic cost of chain stretching. Due to this, they form ordered nanostructures at sub-micron length scales.
+Block copolymers (BCPs) are polymers with two or more polymerized monomer blocks that are covalently bonded together. BCPs are intriguing soft materials because they undergo _micro-phase separation_, due to a competition between enthalpic repulsion between unlike monomers and an entropic cost of chain stretching. Due to this, they form ordered nanostructures at sub-micron length scales.
 
 We study the formation of these ordered bulk morphologies in BCPs using field-theoretic simulations. By switching to a field description of polymers, we use self-consistent field theory (SCFT) to identify stable morphologies. In particular, we study the effect of tuning chain architecture on the stable morphologies exhibited by BCPs.
 
@@ -46,7 +46,7 @@ My earlier brief research experiences have been in Quantum Monte Carlo methods, 
 
 * [Phase behavior of polyhedral nanoparticles in parallel plate confinement](SM2016)
 
-M. R. Khadilkar, U. Agarwal, and F. A. Escobedo, Soft Matter 12, 1506-1516 (2016).
+M. R. Khadilkar and F. A. Escobedo, Soft Matter 12, 1506-1516 (2016).
 
 * [A heuristic rule for binary superlattice co-assembly: Mixed plastic mesophases of hard polyhedral nanoparticles](PRL2014)
 
