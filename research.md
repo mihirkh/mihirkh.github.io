@@ -25,7 +25,7 @@ I study the formation of these ordered bulk morphologies in BCPs using field-the
 <h1>Self-assembly of polyhedral nanoparticles</h1>
 
 <img src="/images/polyhedra.png"   align="right" width="400">
-Colloidal nanoparticles have generated a lot of interest in recent years for many reasons. They can serve as _artificial atoms_ as they assemble into a rich variety of simple and exotic structures. Further, unlike atoms, they are highly tunable in size, shape and interactions, which is highly attractive for their potential applications.
+Colloidal nanoparticles have generated great interest in recent years for a multitude of reasons. They can serve as _artificial atoms_, as they assemble into a rich variety of ordered structures. Their phase transitions proide ideal _testing ground_ for studying fundamental order-disorder phenomena. Further, unlike atoms, they are highly tunable in size, shape and interactions, which is extremely attractive for their potential applications.
 
  I studied self-assembly of binary mixtures of polyhedral nanoparticles using Monte Carlo Simulations in order to examine the effect of shape on the phase behavior.
 

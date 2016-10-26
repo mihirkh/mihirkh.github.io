@@ -18,7 +18,7 @@ I am principally interested in _Soft Condensed Matter Physics_, focusing on self
 
 Block copolymers (BCPs) are polymers with two or more polymerized monomer blocks that are covalently bonded together. BCPs are intriguing soft materials because they undergo _micro-phase separation_, due to a competition between enthalpic repulsion between unlike monomers and an entropic cost of chain stretching. Due to this, they form ordered nanostructures at sub-micron length scales.
 
-We study the formation of these ordered bulk morphologies in BCPs using field-theoretic simulations. By switching to a field description of polymers, we use self-consistent field theory (SCFT) to identify stable morphologies. In particular, we study the effect of tuning the chain architecture on the stable morphologies exhibited by BCPs.
+I study the formation of these ordered bulk morphologies in BCPs using field-theoretic simulations. By switching to a field description of polymers, self-consistent field theory (SCFT) is used to identify stable morphologies. In particular, the effect of tuning the chain architecture is vastly important in deciding the stable morphologies exhibited by BCPs.
 
 <br>
 
@@ -35,7 +35,7 @@ Colloidal nanoparticles have generated a lot of interest in recent years for man
 
  You can take a look at my [Google scholar profile](http://scholar.google.com/citations?user=kBKoYr8AAAAJ) for more information.
 <br><br><br>
-My earlier brief research experiences have been in Quantum Monte Carlo methods, Topological analysis of chaotic systems and Embedding methods for quantum transport.
+My earlier brief research experiences have been in quantum Monte Carlo methods, topological analysis of chaotic systems and embedding methods for quantum transport.
 <br>
 
 <h1>Publications:</h1>
