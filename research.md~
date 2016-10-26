@@ -7,7 +7,7 @@ permalink: /research/
 <!-- {% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %} -->
 
 
-## Research interests
+<h1> Research interests </h1>
 I am principally interested in _Soft Condensed Matter Physics_, focusing on self-assembly of soft materials like colloids, nanoparticles and block-copolymers. My research focuses on structure-property relationships in these soft matter systems using theory and computer simulations. Statistical mechanics is the main tool often used to understand the relation between microscopic interactions and macroscopic properties. Broad aim of this work is twofold:
 
 1. Understand the fundamental physics underlying various self-assembly phenomena
