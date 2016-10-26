@@ -18,7 +18,7 @@ I am principally interested in _Soft Condensed Matter Physics_, focusing on self
 
 Block copolymers (BCPs) are polymers with two or more polymerized monomer blocks that are covalently bonded together. BCPs are intriguing soft materials because they undergo _micro-phase separation_, due to a competition between enthalpic repulsion between unlike monomers and an entropic cost of chain stretching. Due to this, they form ordered nanostructures at sub-micron length scales.
 
-We study the formation of these ordered bulk morphologies in BCPs using field-theoretic simulations. By switching to a field description of polymers, we use self-consistent field theory (SCFT) to identify stable morphologies. In particular, we study the effect of tuning chain architecture on the stable morphologies exhibited by BCPs.
+We study the formation of these ordered bulk morphologies in BCPs using field-theoretic simulations. By switching to a field description of polymers, we use self-consistent field theory (SCFT) to identify stable morphologies. In particular, we study the effect of tuning the chain architecture on the stable morphologies exhibited by BCPs.
 
 <br>
 
