@@ -13,7 +13,7 @@ I am principally interested in _Soft Condensed Matter Physics_, focusing on self
 1. Understand the fundamental physics underlying various self-assembly phenomena
 2. Leverage the use of theory and simulation studies to understand and solve problems related to materials applications.
 
-<h2>Bulk morphologies in block copolymers</h2>
+<h1>Bulk morphologies in block copolymers</h1>
 <img src="/images/bcp-sa.png"   align="left" width="300">
 
 Block copolymers (BCPs) are polymers with two or more polymerized monomer blocks that are covalently bonded together. BCPs are intriguing soft materials because they undergo _micro-phase separation_ , due to a competition between enthalpic repulsion between unlike monomers and an entropic cost of chain stretching. Due to this, they form ordered nanostructures at sub-micron length scales.
@@ -22,7 +22,7 @@ We study the formation of these ordered bulk morphologies in BCPs using field-th
 
 <br>
 
-<h2>Self-assembly of polyhedral nanoparticles</h2>
+<h1>Self-assembly of polyhedral nanoparticles</h1>
 
 <img src="/images/polyhedra.png"   align="right" width="400">
 Colloidal nanoparticles have generated a lot of interest in recent years for many reasons. They can serve as _artificial atoms_ as they assemble into a rich variety of simple and exotic structures. Further, unlike atoms, they are highly tunable in size, shape and interactions, which is highly attractive for their potential applications.
@@ -38,7 +38,7 @@ Colloidal nanoparticles have generated a lot of interest in recent years for man
 My earlier brief research experiences have been in Quantum Monte Carlo methods, Topological analysis of chaotic systems and Embedding methods for quantum transport.
 <br>
 
-<h2>Publications:</h2>
+<h1>Publications:</h1>
 [SM2016]:http://pubs.rsc.org/en/content/articlelanding/2015/sm/c5sm02570b#!divAbstract
 [SM2013]:http://pubs.rsc.org/en/content/articlelanding/2013/sm/c3sm51822a
 [JCP2012]:http://dx.doi.org/10.1063/1.4765699
