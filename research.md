@@ -46,7 +46,7 @@ My earlier brief research experiences have been in quantum Monte Carlo methods, 
 
 * [Phase behavior of polyhedral nanoparticles in parallel plate confinement](http://pubs.rsc.org/en/content/articlelanding/2015/sm/c5sm02570b)
 
-M. R. Khadilkar and F. A. Escobedo, Soft Matter 12, 1506-1516 (2016).
+&nbsp;&nbsp;&nbsp;M. R. Khadilkar and F. A. Escobedo, Soft Matter 12, 1506-1516 (2016).
 
 * [A heuristic rule for binary superlattice co-assembly: Mixed plastic mesophases of hard polyhedral nanoparticles](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.165504)
 

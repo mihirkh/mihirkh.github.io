@@ -44,18 +44,18 @@ My earlier brief research experiences have been in quantum Monte Carlo methods, 
 [JCP2012]:http://dx.doi.org/10.1063/1.4765699
 [PRL2014]:http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.165504
 
-* [Phase behavior of polyhedral nanoparticles in parallel plate confinement](SM2016)
+* [Phase behavior of polyhedral nanoparticles in parallel plate confinement](http://pubs.rsc.org/en/content/articlelanding/2015/sm/c5sm02570b)
 
 M. R. Khadilkar and F. A. Escobedo, Soft Matter 12, 1506-1516 (2016).
 
-* [A heuristic rule for binary superlattice co-assembly: Mixed plastic mesophases of hard polyhedral nanoparticles](PRL2014)
+* [A heuristic rule for binary superlattice co-assembly: Mixed plastic mesophases of hard polyhedral nanoparticles](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.165504)
 
 M R. Khadilkar and F A. Escobedo, Phys. Rev. Lett. 113, 165504 (2014).
 
-* [Phase behavior of binary mixtures of hard convex polyhedra ](SM2013)
+* [Phase behavior of binary mixtures of hard convex polyhedra ](http://pubs.rsc.org/en/content/articlelanding/2013/sm/c3sm51822a)
 
 M. R. Khadilkar, U. Agarwal, and F. A. Escobedo, Soft Matter 9, 11557 (2013).
 
-* [Self-assembly of binary space-tessellating compounds](JCP2012)
+* [Self-assembly of binary space-tessellating compounds](http://dx.doi.org/10.1063/1.4765699)
 
 M. R. Khadilkar and F. A. Escobedo, J. Chem. Phys., 137, 194907 (2012).
