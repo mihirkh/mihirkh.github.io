@@ -7,8 +7,8 @@
 - title: "CV"
   href: "/cv/"
 
-- title: "Links"
-  href: "/links/"
+# - title: "Links"
+#   href: "/links/"
 
 # - title: "Miscellany"
 #   href: "/miscellany/"
