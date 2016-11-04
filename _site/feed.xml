@@ -6,12 +6,12 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Oct 2016 21:56:41 -0700</pubDate>
-    <lastBuildDate>Wed, 26 Oct 2016 21:56:41 -0700</lastBuildDate>
+    <pubDate>Wed, 26 Oct 2016 22:14:32 -0700</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2016 22:14:32 -0700</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Physics simulations</title>
+        <title>Test title</title>
         <description>&lt;p&gt;This is a sample post about this nice little &lt;a href=&quot;http://stp.clarku.edu/simulations/&quot;&gt;website&lt;/a&gt;, that lets you fiddle with basic physics codes.&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
@@ -29,7 +29,7 @@
         
         <category>simulations</category>
         
-        <category>mc</category>
+        <category>python</category>
         
         
         <category>physics</category>

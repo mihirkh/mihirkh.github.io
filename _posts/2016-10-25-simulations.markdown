@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Physics simulations"
+title:  "Test title"
 date:   2015-08-16 16:14:27
 categories: physics simulations
-tags: simulations mc
+tags:
+- simulations
+- python
 ---
 This is a sample post about this nice little [website][simsite], that lets you fiddle with basic physics codes.
 
