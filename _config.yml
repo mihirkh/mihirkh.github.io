@@ -17,6 +17,8 @@ permalink: blog/:year/:month/:title
 job.title: "Postdoctoral Researcher"
 excerpt_separator: "<!--more-->"
 
+# Google services
+google_analytics: UA-86881194-1
 # SEO stuff
 # google_author: ""
 # google_site_verification: ""
