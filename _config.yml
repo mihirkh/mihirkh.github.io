@@ -23,3 +23,6 @@ google_analytics: UA-86881194-1
 # google_author: ""
 # google_site_verification: ""
 # bing_webmastertools_id: ""
+
+gems:
+  - jekyll-seo-tag
