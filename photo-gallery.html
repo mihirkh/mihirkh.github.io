@@ -1,0 +1,24 @@
+---
+layout: default
+images:
+  - image_path: /images/photos/cayuga.jpg
+    title: Reflections
+  - image_path: /images/photos/goa.jpg
+    title: Goa
+  - image_path: /images/photos/newyork.jpg
+    title: Perspectives
+---
+I occasionally dabble in amateur nature photography. Shown below is a small selection
+ of photos I have taken over the years. More photos could be found
+ <a href="https://www.flickr.com/photos/mihir-khadilkar/">here</a>.
+ <br>
+ <br>
+<ul class="photo-gallery">
+  {% for image in page.images %}
+    <li>
+      <a href="{{ image.link }}">
+        <img src="{{ image.image_path }}" alt="{{ image.title }}">
+      </a>
+    </li>
+  {% endfor %}
+</ul>
