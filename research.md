@@ -43,11 +43,16 @@ My earlier brief research experiences have been in quantum Monte Carlo methods, 
 <br>
 
 <h1>Publications:</h1>
+[MM2017]:http://pubs.acs.org/doi/abs/10.1021/acs.macromol.7b01204
 [SM2016]:http://pubs.rsc.org/en/content/articlelanding/2015/sm/c5sm02570b
 [SM2013]:http://pubs.rsc.org/en/content/articlelanding/2013/sm/c3sm51822a
 [JCP2012]:http://dx.doi.org/10.1063/1.4765699
 [PRL2014]:http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.165504
 
+* [Inverse Design of Bulk Morphologies in Multiblock Polymers Using Particle Swarm Optimization](http://pubs.acs.org/doi/abs/10.1021/acs.macromol.7b01204)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M. R. Khadilkar, S. Paradiso, K. T. Delaney and G. H. Fredrickson, Macromolecules 50 (17), 6702-6709  (2017)
+	       
 * [Phase behavior of polyhedral nanoparticles in parallel plate confinement](http://pubs.rsc.org/en/content/articlelanding/2015/sm/c5sm02570b)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M. R. Khadilkar and F. A. Escobedo, Soft Matter 12, 1506-1516 (2016).
