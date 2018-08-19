@@ -14,19 +14,29 @@ I am principally interested in <i>Soft Condensed Matter Physics</i>, focusing on
 1. Understand the fundamental physics underlying various self-assembly phenomena
 2. Leverage the use of theory and simulation studies to understand and solve problems related to materials applications
 
+Given below are short descriptions of different topics I am interested in:
+
+<h1>Curvature and confinement in semiflexible copolymers</h1>
+<img src="/images/sfpc.png"   align="left" width="300" hspace="25">
+
+<p style='text-align: justify;'>
+Semiflexible polymers are polymers are ubiquitous in nature, including many biological systems like DNA, peptides and. For these molecules, a competition between packing entropy and the enthalpic of bending shapes the nature of their phase behavior. For many semiflexible chains, spatial confinement is also an important factor influencing the nature of ordering. Moreover, confinement can also lead to the formation of topological defects, which are important from both theoretical point of view as well as applications.</p>
+
+<p style='text-align: justify;'>
+I study these semiflexible chains using a particle-based coarse-grained model, employing molecular dynamics simulations. By tracking the nature and location of topological defects as a function of chain stiffness and confinement, I am also interested in connecting this behavior to properties like elastic constants.</p>
+<br>
 <h1>Bulk morphologies in block copolymers</h1>
-<img src="/images/bcp-sa.png"   align="left" width="300" hspace="25">
+<img src="/images/bcp-sa.png"   align="right" width="300" hspace="25">
 
 <p style='text-align: justify;'>
 Block copolymers (BCPs) are polymers with two or more polymerized monomer blocks that are covalently bonded together. BCPs are intriguing soft materials because they undergo <i>micro-phase separation</i>, due to a competition between enthalpic repulsion between unlike monomers and an entropic cost of chain stretching. Due to this, they form ordered nanostructures at sub-micron length scales.
 
 I study the formation of these ordered bulk morphologies in BCPs using field-theoretic simulations. By switching to a field description of polymers, self-consistent field theory (SCFT) is used to identify stable morphologies. In particular, the effect of tuning the chain architecture is vastly important in deciding the stable morphologies exhibited by BCPs.</p>
-
 <br>
 
 <h1>Self-assembly of polyhedral nanoparticles</h1>
 
-<img src="/images/polyhedra.png"   align="right" width="300" hspace="25">
+<img src="/images/polyhedra.png"   align="left" width="300" hspace="25">
 <p style='text-align: justify;'>
 Colloidal nanoparticles have generated great interest in recent years for a multitude of reasons. They can serve as <i>artificial atoms</i>, as they assemble into a rich variety of ordered structures. Their phase transitions proide ideal testing ground for studying fundamental order-disorder phenomena. Further, unlike atoms, they are highly tunable in size, shape and interactions, which is extremely attractive for potential technological applications.
 </p>
@@ -43,16 +53,21 @@ My earlier brief research experiences have been in quantum Monte Carlo methods, 
 <br>
 
 <h1>Publications:</h1>
+[SM2018]:https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm01170b
 [MM2017]:http://pubs.acs.org/doi/abs/10.1021/acs.macromol.7b01204
 [SM2016]:http://pubs.rsc.org/en/content/articlelanding/2015/sm/c5sm02570b
 [SM2013]:http://pubs.rsc.org/en/content/articlelanding/2013/sm/c3sm51822a
 [JCP2012]:http://dx.doi.org/10.1063/1.4765699
 [PRL2014]:http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.165504
 
+* [Self-assembly of semiflexible polymers confined to thin spherical shells](https://pubs.rsc.org/en/content/articlelanding/2018/sm/c8sm01170b)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M. R. Khadilkar, and Arash Nikoubashman, Soft Matter (2018)
+
 * [Inverse Design of Bulk Morphologies in Multiblock Polymers Using Particle Swarm Optimization](http://pubs.acs.org/doi/abs/10.1021/acs.macromol.7b01204)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M. R. Khadilkar, S. Paradiso, K. T. Delaney and G. H. Fredrickson, Macromolecules 50 (17), 6702-6709  (2017)
-	       
+
 * [Phase behavior of polyhedral nanoparticles in parallel plate confinement](http://pubs.rsc.org/en/content/articlelanding/2015/sm/c5sm02570b)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M. R. Khadilkar and F. A. Escobedo, Soft Matter 12, 1506-1516 (2016).
