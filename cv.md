@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
-permalink: /cv/
+title: Resume
+permalink: /resume/
 ---
 
 This page is to be updated. However, an older version of my CV is given below. You can also [download the PDF here](/Mihir-Khadilkar-cv.pdf).
