@@ -1,0 +1,31 @@
+I"z<!-- <dl id="" class="wp-caption alignright" style="max-width: 300px">
+
+<dt><a href=""><img class="" src="/images/octojekyll.png" alt="Octojekyll." /></a></dt>
+
+<dd>Octojekyll.</dd>
+</dl>
+ -->
+
+<p>On this page, I hope to list interesting links I find worthy of sharing: books, webpages or resources related to any of my interests: science, engineering, mathematics, music, photography, languages, travel or others.
+<br /><br /></p>
+<ul class="listing">
+
+  
+  <!-- 
+    
+    <li class="listing-seperator">2015</li>
+   -->
+  <li class="listing-item">
+    <time datetime="2015-08-16">2015-08-16</time>
+    <a href="/blog/2015/08/open-source-physics" title="Open source physics">Open source physics</a>
+  </li>
+
+  
+  <!--  -->
+  <li class="listing-item">
+    <time datetime="2015-08-16">2015-08-16</time>
+    <a href="/blog/2015/08/simulations" title="Test title">Test title</a>
+  </li>
+
+</ul>
+:ET

@@ -1,0 +1,11 @@
+I"š<p>This is a sample post about this nice little <a href="http://stp.clarku.edu/simulations/">website</a>, that lets you fiddle with basic physics codes.</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="n">name</span><span class="p">):</span>
+  <span class="k">print</span> <span class="s">'hi'</span>
+
+<span class="n">print_hi</span><span class="p">(</span><span class="s">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>That is the end of the blog post.</p>
+
+:ET
